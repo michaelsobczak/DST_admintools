@@ -1,9 +1,9 @@
 #!/bin/bash
 
-steamcmd_dir="$HOME"
-install_dir="$HOME/dontstarvetogether_dedicated_server"
+steamcmd_dir="/steamcmd"
+install_dir="/dontstarvetogether_dedicated_server"
 cluster_name="$1"
-dontstarve_dir="$HOME/.klei/DoNotStarveTogether"
+dontstarve_dir="/.klei/DoNotStarveTogether"
 
 echo "Starting ${cluster_name}..."
 
